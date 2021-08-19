@@ -27,12 +27,12 @@ UX-UI Design Mobile Uber Mario Cart
 ## 🧐 Sobre
 
 Uma aplicação desenvolvida do Figma, com a finalidade de criar UI/ UX do "Uber" com  a temática do "Mario Kart"
-O Figma está disponível **[AQUI](https://www.figma.com/file/PrLQaar7J1C3eeWtonUrgP/MarioUber?node-id=0%3A1)**
- E o share, com as ligações está disponível **[AQUI](https://www.figma.com/proto/PrLQaar7J1C3eeWtonUrgP/MarioUber?node-id=1%3A1851&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A1851&show-proto-sidebar=1)**
+O Figma está disponível **[FIGMA AQUI](https://www.figma.com/file/PrLQaar7J1C3eeWtonUrgP/MarioUber?node-id=0%3A1)**
+ , e o share com as ligações está disponível **[SHARE AQUI](https://www.figma.com/proto/PrLQaar7J1C3eeWtonUrgP/MarioUber?node-id=1%3A1851&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A1851&show-proto-sidebar=1)**
 </p>
 
 
-
+ 
 <br>
 
 <a id="tecnologias-utilizadas"></a>
