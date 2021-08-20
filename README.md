@@ -1,5 +1,5 @@
 # MarioUber
-UX-UI Design Mobile Uber Mario Cart | Aula do professor Rodrigo Alexandre Head UX/UI Designer, Digital Innovation One
+UX-UI Design Mobile Uber Mario Cart 
 # Recriando o Layout da Uber com temática do Mario Kart com Figma"
 <h3 align="center">
    <img alt="Uber Mário Kart" title="#logo" src="https://github.com/karlacorrea/MarioUber/blob/main/a_gjp.gif">
@@ -48,6 +48,6 @@ Adicione três páginas:
 
 
 <h4 align="center">
-    Feito por 🧡 by <a href="https://www.linkedin.com/in/gamerkarla/" target="_blank">Karla</a>
+    Feito com 🧡 by <a href="https://www.linkedin.com/in/gamerkarla/" target="_blank">Karla</a>
 </h4>
-
+>>> Aula do professor Rodrigo Alexandre Head UX/UI Designer, Digital Innovation One
